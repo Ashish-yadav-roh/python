@@ -1,3 +1,3 @@
 # python
-#only data science projects 
+s 
 print('hello world')
